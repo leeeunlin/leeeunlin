@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+Good day! I am Eunlin
+Digital Forensic Artifact Analysis
 Security Engineer and Developer
 
+If you want to contect me, please leave me a message
 <!--
 **Leeeunlin/leeeunlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
