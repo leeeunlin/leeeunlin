@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Good day! I am Eunlin
-Digital Forensic Artifact Analysis
+
+Digital Forensic Artifact Analyst
 Security Engineer and Developer
 
 If you want to contect me, please leave me a message
