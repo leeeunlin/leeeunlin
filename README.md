@@ -2,8 +2,7 @@
 
 Good day! I am Eunlin
 
-Digital Forensic Artifact Analyst
-Security Engineer and Developer
+Digital Forensic Artifact Analyst and Security Engineer
 
 If you want to contect me, please leave me a message
 
