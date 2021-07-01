@@ -4,7 +4,7 @@ Good day! I am Eunlin
 
 Digital Forensic Artifact Analyst and Security Engineer
 
-If you want to contect me, please leave me a message
+If you want to keep in touch with me, leave me a message
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeeunlin&show_icons=true&theme=dark)
 <!--
