@@ -1,3 +1,7 @@
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=Leeeunlin&&style=flat-square" align="right" />
+</div>  
+
 ### Hi there 👋
 
 Good day! I am Eunlin
@@ -13,7 +17,7 @@ If you want to keep in touch with me, leave me a message
 <img src = "https://github-readme-stats.vercel.app/api?username=Leeeunlin&count_private=true&hide_border=true&show_icons=true&theme=dark" align="left" style = "width:100%" />
       </td>
     <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeeunlin&hide_border=true" align="right" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeeunlin&hide_border=true&layout=compact" align="left" style="width: 100%" />
       </td>
   </tr>
 </table>  
