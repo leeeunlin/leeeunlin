@@ -6,7 +6,17 @@ Digital Forensic Artifact Analyst and Security Engineer
 
 If you want to keep in touch with me, leave me a message
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeeunlin&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
+## Github Stats
+<table frame="void">
+  <tr>
+    <td valign="top" width="50%">
+<img src = "https://github-readme-stats.vercel.app/api?username=Leeeunlin&count_private=true&hide_border=true&show_icons=true&theme=dark" align="left" style = "width:100%" />
+      </td>
+    <td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeeunlin&hide_border=true" align="right" style="width: 100%" />
+      </td>
+  </tr>
+</table>  
 <!--
 **Leeeunlin/leeeunlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
