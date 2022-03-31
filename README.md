@@ -10,7 +10,8 @@ Digital Forensic Artifact Analyst and Security Engineer
 
 If you want to keep in touch with me, leave me a message
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Leeeunlin&count_private=true&include_all_commits=true&&show_icons=true&theme=dark" align="left" style = "width:50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Leeeunlin&count_private=true&include_all_commits=true&show_icons=true&theme=dark" width="50%">
+
 <!--
 **Leeeunlin/leeeunlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
