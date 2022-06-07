@@ -10,20 +10,22 @@ Digital Forensic Artifact Analyst and Security Engineer
 
 If you want to keep in touch with me, leave me a message
 
-## 📚 STACKS
+## 📚 Stacks
 
 <table>
   <tr>
-    <th width="33%">Languages</th>
-    <th width="33%">DataBases</th>
-    <th width="33%">DevOps</th>
+    <th>Languages</th>
+    <th>DataBases</th>
+    <th>DevOps</th>
   </tr>
   <tr>
     <td valign="middle" align="left">
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
+      </br>
       <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+      </br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
       </br>
       <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=Csharp&logoColor=white">
@@ -43,7 +45,6 @@ If you want to keep in touch with me, leave me a message
       <img src="https://img.shields.io/badge/MS Sql-CC2927?style=for-the-badge&logo=MicrosoftSqlServer&logoColor=white">
       </br>
       <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=Sqlite&logoColor=white">
-      </br>
       <img src="https://img.shields.io/badge/FireBase-FFCA28?style=for-the-badge&logo=FireBase&logoColor=white">
     </td>
     <td valign="middle" align="left">
