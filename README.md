@@ -1,11 +1,7 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Leeeunlin&&style=flat-square" align="right" />
-</div>  
-
-### Hi there 👋
+### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=Leeeunlin&style=plastic" align="right" />
 
 Good day! I am Eunlin
-
+  
 Digital Forensic Artifact Analyst and Security Engineer
 
 If you want to keep in touch with me, leave me a message
@@ -17,51 +13,66 @@ If you want to keep in touch with me, leave me a message
     <th>Languages</th>
     <th>DataBases</th>
     <th>DevOps</th>
+    <th>And so on ..</th>
   </tr>
   <tr>
     <td valign="middle" align="left">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
+      <img src="https://img.shields.io/badge/Flutter-02569B?&style=plastic&logo=Flutter&logoColor=white">
+      <img src="https://img.shields.io/badge/Dart-0175C2?&style=plastic&logo=Dart&logoColor=white">
       </br>
-      <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+       <img src="https://img.shields.io/badge/Swift-F05138?&style=plastic&logo=Swift&logoColor=white">
+      <img src="https://img.shields.io/badge/React-61DAFB?&style=plastic&logo=React&logoColor=white">
       </br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?&style=plastic&logo=Python&logoColor=white">
       </br>
-      <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=Csharp&logoColor=white">
-      <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=Blazor&logoColor=white">  
-      <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.Net&logoColor=white">
+      <img src="https://img.shields.io/badge/C Sharp-239120?&style=plastic&logo=Csharp&logoColor=white">
+      <img src="https://img.shields.io/badge/Blazor-512BD4?&style=plastic&logo=Blazor&logoColor=white">  
+      <img src="https://img.shields.io/badge/.Net-512BD4?&style=plastic&logo=.Net&logoColor=white">
       </br>  
-      <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
-      <img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
-      <img src="https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=Php&logoColor=white">
+      <img src="https://img.shields.io/badge/Html5-E34F26?&style=plastic&logo=Html5&logoColor=white">
+      <img src="https://img.shields.io/badge/Css3-1572B6?&style=plastic&logo=Css3&logoColor=white">
+      <img src="https://img.shields.io/badge/Php-777BB4?&style=plastic&logo=Php&logoColor=white">
       </br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-      <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=plastic&logo=JavaScript&logoColor=white">
+      <img src="https://img.shields.io/badge/JQuery-0769AD?&style=plastic&logo=JQuery&logoColor=white">
     </td>
     <td valign="middle" align="left">
-      <img src="https://img.shields.io/badge/My Sql-4479A1?style=for-the-badge&logo=MySql&logoColor=white">
-      <img src="https://img.shields.io/badge/Maria Db-003545?style=for-the-badge&logo=MariaDb&logoColor=white">      
-      <img src="https://img.shields.io/badge/MS Sql-CC2927?style=for-the-badge&logo=MicrosoftSqlServer&logoColor=white">
+      <img src="https://img.shields.io/badge/My SQL-4479A1?&style=plastic&logo=MySql&logoColor=white">
+      <img src="https://img.shields.io/badge/Maria DB-003545?&style=plastic&logo=MariaDb&logoColor=white">      
+      <img src="https://img.shields.io/badge/MS SQL-CC2927?&style=plastic&logo=MicrosoftSqlServer&logoColor=white">
       </br>
-      <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=Sqlite&logoColor=white">
-      <img src="https://img.shields.io/badge/FireBase-FFCA28?style=for-the-badge&logo=FireBase&logoColor=white">
+      <img src="https://img.shields.io/badge/Sqlite-003B57?&style=plastic&logo=Sqlite&logoColor=white">
+      <img src="https://img.shields.io/badge/FireBase-FFCA28?&style=plastic&logo=FireBase&logoColor=white">
     </td>
     <td valign="middle" align="left">
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white">
-      <img src="https://img.shields.io/badge/Mac Os-000000?style=for-the-badge&logo=Apple&logoColor=white">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+      <img src="https://img.shields.io/badge/Windows-0078D6?&style=plastic&logo=Windows&logoColor=white">
+      <img src="https://img.shields.io/badge/Mac OS-000000?&style=plastic&logo=Apple&logoColor=white">
+      <img src="https://img.shields.io/badge/Linux-FCC624?&style=plastic&logo=Linux&logoColor=white">
       </br>
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
-      <img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white">
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?&style=plastic&logo=Ubuntu&logoColor=white">
+      <img src="https://img.shields.io/badge/Kali Linux-557C94?&style=plastic&logo=KaliLinux&logoColor=white">
       </br>
-      <img src="https://img.shields.io/badge/Red Hat-EE0000?style=for-the-badge&logo=RedHat&logoColor=white">
-      <img src="https://img.shields.io/badge/Cent Os-262577?style=for-the-badge&logo=CentOs&logoColor=white">
+      <img src="https://img.shields.io/badge/Red Hat-EE0000?&style=plastic&logo=RedHat&logoColor=white">
+      <img src="https://img.shields.io/badge/Cent OS-262577?&style=plastic&logo=CentOs&logoColor=white">
       </br>
-      <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=ArchLinux&logoColor=white">
+      <img src="https://img.shields.io/badge/Arch Linux-1793D1?&style=plastic&logo=ArchLinux&logoColor=white">
       </br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-      <img src="https://img.shields.io/badge/Azure-2496ED?style=for-the-badge&logo=MicrosoftAzure&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker-2496ED?&style=plastic&logo=Docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Azure-2496ED?&style=plastic&logo=MicrosoftAzure&logoColor=white">
+    </td>
+    <td valign="middle" align="left">
+    <img src="https://img.shields.io/badge/Xcode-147EFB?&style=plastic&logo=Xcode&logoColor=white">
+    <img src="https://img.shields.io/badge/VSCode-007ACC?&style=plastic&logo=VisualStudioCode&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?&style=plastic&logo=VisualStudio&logoColor=white">
+    </br>
+    <img src="https://img.shields.io/badge/VMware-607078?&style=plastic&logo=VMware&logoColor=white">
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?&style=plastic&logo=VirtualBox&logoColor=white">
+    </br>
+    <img src="https://img.shields.io/badge/Photoshop-31A8FF?&style=plastic&logo=AdobePhotoshop&logoColor=white">
+    <img src="https://img.shields.io/badge/Premiere Pro-9999FF?&style=plastic&logo=AdobePremierePro&logoColor=white">
+    <img src="https://img.shields.io/badge/After Effects-9999FF?&style=plastic&logo=AdobeAfterEffects&logoColor=white">
+    </br>
+    <img src="https://img.shields.io/badge/MS Office-D83B01?&style=plastic&logo=MicrosoftOffice&logoColor=white">
     </td>
   </tr>
 </table>
