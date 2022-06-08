@@ -59,21 +59,21 @@ If you want to keep in touch with me, leave me a message
       </br>
       <img src="https://img.shields.io/badge/Docker-2496ED?&style=plastic&logo=Docker&logoColor=white">
       <img src="https://img.shields.io/badge/Azure-2496ED?&style=plastic&logo=MicrosoftAzure&logoColor=white">
-    </td>
-    <td valign="middle" align="left">
-    <img src="https://img.shields.io/badge/Xcode-147EFB?&style=plastic&logo=Xcode&logoColor=white">
-    <img src="https://img.shields.io/badge/VSCode-007ACC?&style=plastic&logo=VisualStudioCode&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?&style=plastic&logo=VisualStudio&logoColor=white">
-    </br>
-    <img src="https://img.shields.io/badge/VMware-607078?&style=plastic&logo=VMware&logoColor=white">
-    <img src="https://img.shields.io/badge/VirtualBox-183A61?&style=plastic&logo=VirtualBox&logoColor=white">
-    </br>
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?&style=plastic&logo=AdobePhotoshop&logoColor=white">
-    <img src="https://img.shields.io/badge/Premiere Pro-9999FF?&style=plastic&logo=AdobePremierePro&logoColor=white">
-    <img src="https://img.shields.io/badge/After Effects-9999FF?&style=plastic&logo=AdobeAfterEffects&logoColor=white">
-    </br>
-    <img src="https://img.shields.io/badge/MS Office-D83B01?&style=plastic&logo=MicrosoftOffice&logoColor=white">
-    </td>
+      </td>
+      <td valign="middle" align="left">
+      <img src="https://img.shields.io/badge/Xcode-147EFB?&style=plastic&logo=Xcode&logoColor=white">
+      <img src="https://img.shields.io/badge/VSCode-007ACC?&style=plastic&logo=VisualStudioCode&logoColor=white">
+      <img src="https://img.shields.io/badge/Visual Studio-5C2D91?&style=plastic&logo=VisualStudio&logoColor=white">
+      </br>
+      <img src="https://img.shields.io/badge/VMware-607078?&style=plastic&logo=VMware&logoColor=white">
+      <img src="https://img.shields.io/badge/VirtualBox-183A61?&style=plastic&logo=VirtualBox&logoColor=white">
+      </br>
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?&style=plastic&logo=AdobePhotoshop&logoColor=white">
+      <img src="https://img.shields.io/badge/Premiere Pro-9999FF?&style=plastic&logo=AdobePremierePro&logoColor=white">
+      <img src="https://img.shields.io/badge/After Effects-9999FF?&style=plastic&logo=AdobeAfterEffects&logoColor=white">
+      </br>
+      <img src="https://img.shields.io/badge/MS Office-D83B01?&style=plastic&logo=MicrosoftOffice&logoColor=white">
+      </td>
   </tr>
 </table>
 
