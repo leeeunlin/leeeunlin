@@ -77,7 +77,7 @@ If you want to keep in touch with me, leave me a message
   </tr>
 </table>
 
-## 📜 Github Stats
+## 📜 Github Status
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Leeeunlin&count_private=true&include_all_commits=false&show_icons=true&theme=dark" width="50%">
 </div>
