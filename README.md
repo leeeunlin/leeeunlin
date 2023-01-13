@@ -79,7 +79,7 @@ If you want to keep in touch with me, leave me a message
 
 ## 📜 Github Status
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Leeeunlin&count_private=true&include_all_commits=false&show_icons=true&theme=dark" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=leeeunlin&count_private=true&include_all_commits=false&show_icons=true&theme=dark" width="50%">
 </div>
 
 ## 📨 Connect With Me
