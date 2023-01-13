@@ -2,8 +2,6 @@
 
 Good day! I am Eunlin
   
-Digital Forensic Artifact Analyst and Security Engineer
-
 If you want to keep in touch with me, leave me a message
 
 ## 📚 Stacks
