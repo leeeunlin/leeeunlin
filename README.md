@@ -84,9 +84,6 @@ If you want to keep in touch with me, leave me a message
 <a href="https://github.com/leeeunlin" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </a>
-<a href="https://twitter.com/leeeunlin" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
 <a href="mailto:leeeunlin@icloud.com" target="_blank">
   <img src="https://img.shields.io/badge/Mail-3693F3?style=for-the-badge&logo=Icloud&logoColor=white">
 </a>
