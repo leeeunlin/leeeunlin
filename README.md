@@ -78,20 +78,25 @@ If you want to keep in touch with me, leave me a message
   
 ## 📜 My Info
 ```Dart
-  Future<Map<String, Object>> createEunlinModel() async {
-    Map<String, Object> leeEunlin = {};
-    leeEunlin['gender'] = '♂︎ Man';
-    leeEunlin['job'] = '💼 Mobile Application Developer';
-    leeEunlin['birthDay'] = '🎂 12.23 (♐️ Sagittarius)';
-    leeEunlin['bloodType'] = '🅱️';
-    leeEunlin['head'] = '👓 I wear glasses';
-    leeEunlin['body'] = '👔 like to wear shirts';
-    leeEunlin['leg'] = '👖 Slacks are good no matter how you wear them';
-    leeEunlin['foot'] = '👞 Basic black shoes';
-    leeEunlin['hand_Left'] = ['⌚️ For watches under $500, the Apple Watch is the best', '💍 I am married'];
-    leeEunlin['hand_Right'] = [];
-    leeEunlin['weapon_Main'] = ['🗡️ Dart & Flutter', '💻 MacBook Air M2', '⌨️ Logitech K855']
-    leeEunlin['weapon_Sub'] = ['🏹 Swift & Kotlin', '🖱️ Logitech G304']
+ Future<Map<String, Object>> createEunlinModel() async {
+    Map<String, Object> leeEunlin = {
+      'job': '💼 Mobile Application Developer',
+      'head': '👓 I wear glasses',
+      'body': '👔 like to wear shirts',
+      'leg': '👖 Slacks are good no matter how you wear them',
+      'foot': '👞 Basic black shoes',
+      'hand_Left': [
+        '⌚️ For watches under \$500, the Apple Watch is the best',
+        '💍 I am married'
+      ],
+      'hand_Right': [],
+      'weapon_Main': [
+        '🗡️ Dart & Flutter',
+        '💻 MacBook Air M2',
+        '⌨️ Logitech K855'
+      ],
+      'weapon_Sub': ['🏹 Swift & Kotlin', '🖱️ Logitech G304']
+    };
     return leeEunlin;
   }
 ```
