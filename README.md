@@ -4,6 +4,7 @@ Good day! I am Eunlin
   
 If you want to keep in touch with me, leave me a message
 
+
 ## 📚 Stacks
 
 <table>
@@ -74,11 +75,27 @@ If you want to keep in touch with me, leave me a message
       </td>
   </tr>
 </table>
+  
+## 📜 My Info
+```Dart
+  Future<Map<String, Object>> createEunlinModel() async {
+    Map<String, Object> leeEunlin = {};
+    leeEunlin['gender'] = '♂︎ Man';
+    leeEunlin['job'] = '💼 Mobile Application Developer';
+    leeEunlin['birthDay'] = '🎂 12.23 (♐️ Sagittarius)';
+    leeEunlin['bloodType'] = '🅱️';
+    leeEunlin['head'] = '👓 I wear glasses';
+    leeEunlin['body'] = '👔 like to wear shirts';
+    leeEunlin['leg'] = '👖 Slacks are good no matter how you wear them';
+    leeEunlin['foot'] = '👞 Basic black shoes';
+    leeEunlin['hand_Left'] = ['⌚️ For watches under $500, the Apple Watch is the best', '💍 I am married'];
+    leeEunlin['hand_Right'] = [];
+    leeEunlin['weapon_Main'] = ['🗡️ Dart & Flutter', '💻 MacBook Air M2', '⌨️ Logitech K855']
+    leeEunlin['weapon_Sub'] = ['🏹 Swift & Kotlin', '🖱️ Logitech G304']
+    return leeEunlin;
+  }
+```
 
-## 📜 Github Status
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Leeeunlin&count_private=true&include_all_commits=false&show_icons=true&theme=dark" width="50%">
-</div>
 
 ## 📨 Connect With Me
 <a href="https://github.com/leeeunlin" target="_blank">
@@ -90,6 +107,7 @@ If you want to keep in touch with me, leave me a message
 <a href="https://discord.gg/efgAnqzwCH" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 </a>
+
 <!--
 **Leeeunlin/leeeunlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
