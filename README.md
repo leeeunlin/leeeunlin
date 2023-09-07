@@ -5,7 +5,7 @@ Good day! I am Eunlin
 If you want to keep in touch with me, leave me a message
 
 I don't have a social media account
-<br><br><br>
+
 ###### 📜 Do you want to know more about me?
 ```Dart
  Future<Map<String, Object>> createEunlinModel() async {
