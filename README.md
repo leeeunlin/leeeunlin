@@ -18,7 +18,7 @@ I don't have a social media account
       'hand_Left': [
         '⌚️ For watches under \$500, the Apple Watch is the best',
         '💍 I am married'
-      ],안녕
+      ],
       'hand_Right': [],
       'weapon_Main': [
         '🗡️ Dart', '🛡️ Flutter'
