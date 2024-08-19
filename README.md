@@ -7,7 +7,7 @@
 
 ## 📚 My favorite tools and technologies
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,swift,kotlin,go,nodejs,azure,gcp,firebase,sqlite,mysql,apple,linux,kali,figma,vscode,obsidian,discord,docker,github">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,swift,kotlin,go,nodejs,azure,gcp,firebase,sqlite,mysql,apple,linux,kali,figma,vscode,obsidian,discord,docker,github&perline=5">
 </p>
 </br>
 </br>
