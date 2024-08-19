@@ -1,12 +1,18 @@
-### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=Leeeunlin&style=plastic" align="right" />
+![introduce](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=2000&pause=800&vCenter=true&width=600&height=30&lines=Hi+there+%F0%9F%91%8B+I+am+Eunlin;I+am+a+Flutter+App+developer;cheak+my+Repository!;I+don't+have+a+social+media+account" )
+![view_count](https://komarev.com/ghpvc/?username=leeeunlin&label=Profile%20views&color=0e75b6&style=flat)
 
-Good day! I am Eunlin
+## 📚 My favorite tools and technologies
 
-If you want to keep in touch with me, leave me a message
+![favorite](https://skillicons.dev/icons?i=dart,flutter,swift,kotlin,go,nodejs,azure,gcp,firebase,sqlite,mysql,apple,linux,kali,figma,vscode,obsidian,discord,docker,github)
 
-I don't have a social media account
+## 📝 Activity Log
+![leeeunlin's github stats](https://bad-apple-github-readme.vercel.app/api?username=leeeunlin&show_icons=true&count_private=true&include_all_commits=true&theme=blue-green)
+![leeeunlin's current streak](https://streak-stats.demolab.com/?user=leeeunlin&count_private=true&theme=blue-green)
+![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=leeeunlin&layout=compact&count_private=true&theme=blue-green)
 
-###### 📜 Do you want to know more about me?
+![trophy](https://github-profile-trophy.vercel.app/?username=leeeunlin&no-frame=true&column=4&theme=darkhub)
+
+## 📜 Do you want to know more about me?
 ```Dart
  Future<Map<String, Object>> createEunlinModel() async {
     Map<String, Object> leeEunlin = {
@@ -30,7 +36,7 @@ I don't have a social media account
   }
 ```
 
-###### 📨 Connect With Me
+## 📨 Connect With Me
 <a href="https://github.com/leeeunlin" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </a>
