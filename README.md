@@ -1,6 +1,6 @@
 <div align="center">
     <img width="74%"
-        src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=25&duration=2000&pause=800&color=4E93BB&width=450&height=40&lines=Hi+there+%F0%9F%91%8B+I+am+Eunlin;I+am+a+Flutter+App+developer;cheak+my+Repository!;I+don't+have+a+social+media+account">
+        src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=25&duration=2000&pause=800&color=4E93BB&width=450&height=40&lines=Hi+there+%F0%9F%91%8B+I+am+Eunlin;I+am+a+Flutter+App+developer;check+my+Repository!;I+don't+have+a+social+media+account">
     <img width="19%"
         align="right"
         src="https://komarev.com/ghpvc/?username=leeeunlin&label=Profile%20views&color=0e75b6&style=plastic">
