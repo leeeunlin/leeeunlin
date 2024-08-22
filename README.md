@@ -7,30 +7,30 @@
 
 ###### 📚 My favorite tools and technologies
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,swift,kotlin,go,nodejs,azure,gcp,firebase,sqlite,mysql,apple,linux,kali,figma,vscode,obsidian,discord,docker,github&perline=5">
+    <img width="100%" src="https://skillicons.dev/icons?i=dart,flutter,swift,kotlin,go,nodejs,azure,gcp,firebase,sqlite,mysql,apple,linux,kali,figma,vscode,obsidian,discord,docker,github&perline=5">
 </p>
 </br>
 </br>
 
 ###### 📝 Activity Log
 <p align="center">
-    <img src="https://bad-apple-github-readme.vercel.app/api?username=leeeunlin&show_icons=true&count_private=true&include_all_commits=true&theme=blue-green">
+    <img width="100%" src="https://bad-apple-github-readme.vercel.app/api?username=leeeunlin&show_icons=true&count_private=true&include_all_commits=true&theme=blue-green">
 </p>
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=leeeunlin&count_private=true&theme=blue-green">
+    <img width="100%" src="https://streak-stats.demolab.com/?user=leeeunlin&count_private=true&theme=blue-green">
 </p>
 <p align="center">
-    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=leeeunlin&layout=compact&count_private=true&theme=blue-green">
+    <img width="100%" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=leeeunlin&layout=compact&count_private=true&theme=blue-green">
 </p>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=leeeunlin&no-frame=true&column=4&theme=darkhub">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=leeeunlin&no-frame=true&column=4&theme=darkhub">
 </p>
 </br>
 </br>
 
 ###### 📜 Do you want to know more about me?
 ```Dart
- Future<Map<String, Object>> createEunlinModel() async {
+ Map<String, Object> createEunlinModel() {
     Map<String, Object> leeEunlin = {
       'job': '💼 Mobile Application Developer',
       'head': '👓 I wear glasses',
@@ -38,7 +38,6 @@
       'leg': '👖 Slacks are good no matter how you wear them',
       'feet': '👞 Basic black shoes',
       'hand_Left': [
-        '⌚️ For watches under \$500, the Apple Watch is the best',
         '💍 I am married'
       ],
       'hand_Right': [],
