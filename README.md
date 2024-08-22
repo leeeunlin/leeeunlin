@@ -5,13 +5,6 @@
 </br>
 </br>
 
-###### 📚 My favorite tools and technologies
-<p align="center">
-    <img width="100%" src="https://skillicons.dev/icons?i=dart,flutter,swift,kotlin,go,nodejs,azure,gcp,firebase,sqlite,mysql,apple,linux,kali,figma,vscode,obsidian,discord,docker,github&perline=5">
-</p>
-</br>
-</br>
-
 ###### 📝 Activity Log
 <p align="center">
     <img width="100%" src="https://bad-apple-github-readme.vercel.app/api?username=leeeunlin&show_icons=true&count_private=true&include_all_commits=true&theme=blue-green">
@@ -24,6 +17,13 @@
 </p>
 <p align="center">
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=leeeunlin&no-frame=true&column=4&theme=darkhub">
+</p>
+</br>
+</br>
+
+###### 📚 My favorite tools and technologies
+<p align="center">
+    <img width="100%" src="https://skillicons.dev/icons?i=dart,flutter,swift,kotlin,go,nodejs,azure,gcp,firebase,sqlite,mysql,apple,linux,kali,figma,vscode,obsidian,discord,docker,github&perline=5">
 </p>
 </br>
 </br>
