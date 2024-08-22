@@ -46,12 +46,15 @@ Map<String, Object> createEunlinModel() {
 ```
 
 ###### 📨 Connect With Me
-<a href="https://github.com/leeeunlin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
-</a>
-<a href="mailto:leeeunlin@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-3693F3?style=for-the-badge&logo=Icloud&logoColor=white" />
-</a>
-<a href="https://discord.gg/efgAnqzwCH" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" />
-</a>
+[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white])](https://github.com/leeeunlin)
+<div align="left">
+    <a href="https://github.com/leeeunlin" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+    </a>
+    <a href="mailto:leeeunlin@icloud.com" target="_blank">
+        <img src="https://img.shields.io/badge/Mail-3693F3?style=for-the-badge&logo=Icloud&logoColor=white">
+    </a>
+    <a href="https://discord.gg/efgAnqzwCH" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+    </a>
+</div>
