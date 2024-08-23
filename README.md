@@ -25,13 +25,13 @@
         src="https://github-profile-trophy.vercel.app/?username=leeeunlin&no-frame=true&column=4&theme=darkhub">
 </div>
 
-###### 📚 My favorite tools and technologies
+###### 📚 Favorite tools and technologies
 <div align="center">
     <img width="100%"
         src="https://skillicons.dev/icons?i=dart,flutter,swift,kotlin,go,nodejs,azure,gcp,firebase,sqlite,mysql,apple,linux,kali,figma,vscode,obsidian,discord,docker,github&perline=10">
 </div>
 
-###### 📜 Do you want to know more about me?
+###### 📜 Age is...
 ```Dart
 int eunlinage() {
     return (DateTime.now().difference(DateTime(1990, 12, 23)).inDays / 365).floor();
@@ -49,7 +49,7 @@ int eunlin_age() {
 }
 ```
 
-###### 📨 Connect With Me
+###### 📨 Contact information
 [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/leeeunlin)
 [![](https://img.shields.io/badge/Mail-3693F3?style=for-the-badge&logo=Icloud&logoColor=white)](mailto:leeeunlin@icloud.com)
 [![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/efgAnqzwCH)
