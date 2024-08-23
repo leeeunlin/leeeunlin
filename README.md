@@ -36,7 +36,7 @@
 int eunlinage() {
     return (DateTime.now().difference(DateTime(1990, 12, 23)).inDays / 365).floor();
 }
-// If the code snippet above doesn't work for you, call the function below.
+/// If the code snippet above doesn't work for you, call the [eunlin_age] function below.
 int eunlin_age() {
     DateTime birth = DateTime(1990, 12, 23);
     DateTime today = DateTime.now();
