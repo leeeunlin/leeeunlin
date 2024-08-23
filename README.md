@@ -33,20 +33,15 @@
 
 ###### 📜 Do you want to know more about me?
 ```Dart
-Map<String, Object> createEunlinModel() {
-  Map<String, Object> leeEunlin = {
-    'job': '💼 Mobile Application Developer',
-    'head': '👓 I wear glasses',
-    'body': '👔 like to wear shirts',
-    'leg': '👖 Slacks are good no matter how you wear them',
-    'feet': '👞 Basic black shoes',
-    'hand_Left': ['💍 I am married'],
-    'hand_Right': [],
-    'weapon_Main': ['🗡️ Dart', '🛡️ Flutter'],
-    'weapon_Sub': ['🏹 Swift & Kotlin']
-  };
-  // I am a cross platform app developer
-  return leeEunlin;
+int eunlinAge() {
+    DateTime birth = DateTime(1990, 12, 23);
+    DateTime today = DateTime.now();
+    int age = today.year - birth.year;
+    if (today.month < birth.month ||
+        (today.month == birth.month && today.day < birth.day)) {
+      age--;
+    }
+    return age;
 }
 ```
 
