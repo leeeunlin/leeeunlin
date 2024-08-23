@@ -1,6 +1,6 @@
 <div align ="center">
     <img width="100%"
-        src="https://capsule-render.vercel.app/api?type=slice&color=2F97C1&height=150&text=Code+Sorcerer&fontSize=60&fontColor=F5B700&fontAlign=65&rotate=10&fontAlignY=22&animation=twinkling&section=header">
+        src="https://capsule-render.vercel.app/api?type=slice&color=2F97C1&height=150&text=Code+Sorcerer&fontSize=60&fontColor=F5B700&fontAlign=65&rotate=10&fontAlignY=22&animation=twinkling">
 </div>
 </br>
 <div align="center">
@@ -54,8 +54,3 @@ Map<String, Object> createEunlinModel() {
 [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/leeeunlin)
 [![](https://img.shields.io/badge/Mail-3693F3?style=for-the-badge&logo=Icloud&logoColor=white)](mailto:leeeunlin@icloud.com)
 [![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/efgAnqzwCH)
-
-<div align ="center">
-    <img width="100%"
-        src="https://capsule-render.vercel.app/api?type=slice&color=F5B700&height=150&section=footer">
-</div>
