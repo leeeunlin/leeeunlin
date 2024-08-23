@@ -1,6 +1,11 @@
+<div align ="center">
+    <img width="100%"
+        src="https://capsule-render.vercel.app/api?type=slice&color=2F97C1&height=150&text=Code+Sorcerer&fontSize=60&fontColor=F5B700&fontAlign=65&rotate=10&fontAlignY=22&animation=twinkling&section=header">
+</div>
+</br>
 <div align="center">
     <img width="74%"
-        src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=25&duration=2000&pause=800&color=4E93BB&width=450&height=40&lines=Hi+there+%F0%9F%91%8B+I+am+Eunlin;I+am+a+Flutter+App+developer;check+my+Repository!;I+don't+have+a+social+media+account">
+        src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=25&duration=2000&pause=800&color=0CF574&width=450&height=40&lines=Hi+there+%F0%9F%91%8B+I+am+Eunlin;I+am+a+Flutter+App+developer;check+my+Repository!;I+don't+have+a+social+media+account">
     <img width="19%"
         align="right"
         src="https://komarev.com/ghpvc/?username=leeeunlin&label=Profile%20views&color=0e75b6&style=plastic">
@@ -49,3 +54,8 @@ Map<String, Object> createEunlinModel() {
 [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/leeeunlin)
 [![](https://img.shields.io/badge/Mail-3693F3?style=for-the-badge&logo=Icloud&logoColor=white)](mailto:leeeunlin@icloud.com)
 [![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/efgAnqzwCH)
+
+<div align ="center">
+    <img width="100%"
+        src="https://capsule-render.vercel.app/api?type=slice&color=F5B700&height=150&section=footer">
+</div>
