@@ -16,7 +16,7 @@
 ###### 📝 Activity Log
 <div align="center">
     <img width="49%" src="https://bad-apple-github-readme.vercel.app/api?username=leeeunlin&show_icons=true&count_private=true&include_all_commits=true&theme=blue-green">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=leeeunlin&count_private=true&theme=blue-green">
+    <img width="49%" src="https://streak-stats.demolab.com/?user=leeeunlin&count_private=true&theme=blue-green" alt="Git HostingServer Error">
 </div>
 <div align="center">
     <img width="49%" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=leeeunlin&layout=compact&count_private=true&theme=blue-green">
