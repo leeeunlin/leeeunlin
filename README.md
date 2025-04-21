@@ -1,6 +1,6 @@
 <div align ="center">
     <img width="100%"
-        src="https://capsule-render.vercel.app/api?type=slice&color=2F97C1&height=150&text=Code+Sorcerer&fontSize=60&fontColor=F5B700&fontAlign=65&rotate=10&fontAlignY=22&animation=twinkling">
+        src="https://capsule-render.vercel.app/api?type=slice&color=2F97C1&height=150&text=Next+Mini+Story&fontSize=60&fontColor=F5B700&fontAlign=65&rotate=10&fontAlignY=22&animation=twinkling">
 </div>
 </br>
 <div align="left">
