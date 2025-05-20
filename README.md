@@ -22,20 +22,9 @@
     <img width="49%" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=leeeunlin&layout=compact&count_private=true&theme=blue-green">
     <img width="49%" src="https://github-profile-trophy.vercel.app/?username=leeeunlin&no-frame=true&column=4&theme=darkhub&rank=-?">
 </div>
-
-###### 📜 Age is...
-```Dart
-int eunlin_age() {
-    DateTime birth = DateTime(1990, 12, 23);
-    DateTime today = DateTime.now();
-    int age = today.year - birth.year;
-    if (today.month < birth.month ||
-        (today.month == birth.month && today.day < birth.day)) {
-      age--;
-    }
-    return age;
-}
-```
+<div align="center">
+      <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=leeeunlin&bg_color=040F0F&color=0CF574&title_color=2F97C1&line=2F97C1&point=F5B700&area_color=2F97C1&area=true&grid=false&radius=8&hide_title=true&grid=true">
+</div>
 
 ###### 📨 Contact information
 [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/leeeunlin)
