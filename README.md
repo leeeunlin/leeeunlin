@@ -3,10 +3,14 @@
         src="https://capsule-render.vercel.app/api?type=slice&color=2F97C1&height=150&text=Next+Mini+Story&fontSize=60&fontColor=F5B700&fontAlign=65&rotate=10&fontAlignY=22&animation=twinkling">
 </div>
 </br>
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=leeeunlin&label=Profile%20views&color=0E75B6&style=plastic">
+</div>
+</br>
 <div align="left">
     <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=25&duration=2000&pause=800&color=0CF574&width=450&height=40&lines=Hi+there+%F0%9F%91%8B+I+am+Eunlin;I+am+a+Flutter+App+developer;check+my+Repository!;I+don't+have+a+social+media+account">
-    <img width="10%" align="right" src="https://komarev.com/ghpvc/?username=leeeunlin&label=Profile%20views&color=0E75B6&style=plastic">
 </div>
+</br>
 
 ###### 📚 Favorite tools and technologies
 <div align="center">
@@ -23,7 +27,7 @@
     <img width="49%" src="https://github-profile-trophy.vercel.app/?username=leeeunlin&no-frame=true&column=4&theme=darkhub&rank=-?">
 </div>
 <div align="center">
-      <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=leeeunlin&bg_color=040F0F&color=0CF574&title_color=2F97C1&line=2F97C1&point=F5B700&area_color=2F97C1&area=true&grid=false&radius=8&hide_title=true&grid=true">
+      <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=leeeunlin&bg_color=040F0F&color=0CF574&title_color=2F97C1&line=2F97C1&point=F5B700&area_color=2F97C1&area=true&grid=false&radius=8&hide_title=true&grid=true">
 </div>
 
 ###### 📨 Contact information
