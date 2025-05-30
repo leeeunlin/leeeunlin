@@ -4,7 +4,7 @@
 </div>
 </br>
 <div align="right">
-    <img src="https://komarev.com/ghpvc/?username=leeeunlin&label=Profile%20views&color=0E75B6&style=plastic">
+    <img width="20%" src="https://komarev.com/ghpvc/?username=leeeunlin&label=Profile%20views&color=0E75B6&style=plastic">
 </div>
 </br>
 <div align="left">
