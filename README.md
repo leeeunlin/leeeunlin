@@ -33,4 +33,3 @@
 ###### 📨 Contact information
 [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/leeeunlin)
 [![](https://img.shields.io/badge/Mail-3693F3?style=for-the-badge&logo=Icloud&logoColor=white)](mailto:leeeunlin@icloud.com)
-[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/efgAnqzwCH)
