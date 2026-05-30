@@ -19,15 +19,15 @@
 
 ###### 📝 Activity Log
 <div align="center">
-    <img width="49%" src="https://kayan-github-profile-projects-featu.vercel.app/api?username=leeeunlin&show_icons=true&count_private=true&include_all_commits=true&theme=blue-green">
-    <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=leeeunlin&count_private=true&theme=blue-green">
+    <img width="30%" src="https://kayan-github-profile-projects-featu.vercel.app/api?username=leeeunlin&show_icons=true&count_private=true&include_all_commits=true&theme=blue-green">
+    <img width="30%" src="https://github-readme-streak-stats-eight.vercel.app/?user=leeeunlin&count_private=true&theme=blue-green">
+    <img width="30%" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=leeeunlin&layout=compact&count_private=true&theme=blue-green">
 </div>
 <div align="center">
-    <img width="49%" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=leeeunlin&layout=compact&count_private=true&theme=blue-green">
-    <!-- <img width="49%" src="https://github-profile-trophy.vercel.app/?username=leeeunlin&no-frame=true&column=4&theme=darkhub&rank=-?"> -->
+    <img width="91%" src="https://github-readme-activity-graph.vercel.app/graph?username=leeeunlin&bg_color=040F0F&color=0CF574&title_color=2F97C1&line=2F97C1&point=F5B700&area_color=2F97C1&area=true&grid=false&radius=8&hide_title=true&grid=true">
 </div>
 <div align="center">
-      <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=leeeunlin&bg_color=040F0F&color=0CF574&title_color=2F97C1&line=2F97C1&point=F5B700&area_color=2F97C1&area=true&grid=false&radius=8&hide_title=true&grid=true">
+      
 </div>
 
 ###### 📨 Contact information
