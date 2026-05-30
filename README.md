@@ -4,7 +4,7 @@
 </div>
 </br>
 <div align="right">
-    <img width="20%" src="https://komarev.com/ghpvc/?username=leeeunlin&label=Profile%20views&color=0E75B6&style=plastic">
+    <img src="https://komarev.com/ghpvc/?username=leeeunlin&label=Profile%20views&color=0E75B6&style=plastic">
 </div>
 </br>
 <div align="left">
@@ -12,23 +12,27 @@
 </div>
 </br>
 
+---
+
 ###### 📚 Favorite tools and technologies
 <div align="center">
     <img width="100%" src="https://skillicons.dev/icons?i=dart,flutter,swift,kotlin,go,nodejs,azure,gcp,firebase,sqlite,mysql,apple,linux,kali,figma,vscode,obsidian,discord,docker,github&perline=20">
 </div>
 
+---
+
 ###### 📝 Activity Log
 <div align="center">
     <img width="30%" src="https://kayan-github-profile-projects-featu.vercel.app/api?username=leeeunlin&show_icons=true&count_private=true&include_all_commits=true&theme=blue-green">
-    <img width="30%" src="https://github-readme-streak-stats-eight.vercel.app/?user=leeeunlin&count_private=true&theme=blue-green">
-    <img width="30%" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=leeeunlin&layout=compact&count_private=true&theme=blue-green">
+    <img width="32%" src="https://github-readme-streak-stats-eight.vercel.app/?user=leeeunlin&count_private=true&theme=blue-green">
+    <img width="23%" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=leeeunlin&layout=compact&count_private=true&theme=blue-green">
+    
 </div>
-<div align="center">
-    <img width="91%" src="https://github-readme-activity-graph.vercel.app/graph?username=leeeunlin&bg_color=040F0F&color=0CF574&title_color=2F97C1&line=2F97C1&point=F5B700&area_color=2F97C1&area=true&grid=false&radius=8&hide_title=true&grid=true">
+<div align="center">    
+    <img width="86%" src="https://github-readme-activity-graph.vercel.app/graph?username=leeeunlin&bg_color=040F0F&color=0CF574&title_color=2F97C1&line=2F97C1&point=F5B700&area_color=2F97C1&area=true&grid=false&radius=8&hide_title=true&grid=true">
 </div>
-<div align="center">
-      
-</div>
+
+---
 
 ###### 📨 Contact information
 [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/leeeunlin)
